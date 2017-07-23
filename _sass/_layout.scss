@@ -73,7 +73,7 @@ pre code.hljs {
 	width: 100%;
 	text-align: center;
 	&.has-cover {
-		color: $white;
+		color: #FFD700;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
 		background-size: cover;
@@ -87,7 +87,7 @@ pre code.hljs {
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: #696969;
+			background-color: #48d1cc;
 			padding: 6em 1em !important;
 			@include media($tablet) {
 				padding: 9em 1em !important;
