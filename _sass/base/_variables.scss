@@ -2,11 +2,11 @@
 @import url(//fonts.googleapis.com/css?family=Consolas|Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
 
 // Typography
-$base-font-family: "Consolas", "Consolas", "Consolas", "Consolas", "Consolas", serif;
-$heading-font-family: "Consolas", "Consolas", "Consolas", "Consolas", serif;
+$base-font-family: "Consolas", "Consolas", "Consolas", "Consolas", Consolas;
+$heading-font-family: "Consolas", "Consolas", "Consolas", "Consolas", Consolas;
 
 // Font Sizes
-$base-font-size: $em-base; // 8px
+$base-font-size: 7px;
 
 // Adjust modular scale ratio
 $modular-scale-ratio: $minor-third;
